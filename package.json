@@ -9,6 +9,7 @@
     "puppeteer": "1.14.0",
     "eslint": "^4.18.0",
     "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-codeceptjs": "^0.4.0",
     "eslint-plugin-jest": "^21.12.2",
     "eslint-plugin-node": "^6.0.0",
