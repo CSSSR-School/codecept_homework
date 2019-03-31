@@ -1,4 +1,4 @@
-Feature('Homework');
+Feature('Homework')
 
 Scenario('test something', (I) => {
 

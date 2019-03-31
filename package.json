@@ -2,6 +2,7 @@
   "name": "codecept_homework",
   "version": "1.0.0",
   "scripts": {
+    "lint": "npx eslint ./",
     "test": "npx codeceptjs run --steps"
   },
   "dependencies": {

@@ -11,11 +11,7 @@ module.exports = {
     'no-unused-vars': 'error',
     'no-restricted-imports': ['warn', 'prop-types'],
     'import/prefer-default-export': 'warn',
-    'react/jsx-uses-vars': 1,
-    'react/jsx-uses-react': 1,
-    'react/react-in-jsx-scope': 1,
     'object-curly-spacing': ['error', 'always'],
-    'react/jsx-curly-brace-presence': [1, 'never'],
     'max-len': [2, 135],
   },
   'overrides': {
